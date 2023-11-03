@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const User = require("../models/models.user.js");
+const User = require("../models/model.user.js");
 const mongoose = require("mongoose");
 // update any field (one or more using patch)
 // 1st method
